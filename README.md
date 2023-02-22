@@ -1,8 +1,8 @@
-# Project 6 - *BeReal app*
+# Project 6 - *BeReal*
 
 Submitted by: **Cesar Borroto**
 
-**BeReal app** is an app that allows you to post pictures and share them. 
+**BeReal** is an app that allows you to post experiences. 
 
 Time spent: **15** hours spent in total
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/bHTqE9X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/rmXE0Wv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -32,7 +32,6 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
 
 ## License
 
